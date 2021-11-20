@@ -1,0 +1,18 @@
+.cardDetails{
+    width: 50%;
+    margin: auto;
+    top: 30px;
+    background: beige;
+    border: solid 2px black;
+    background-color: #e4f2fa1f !important;
+}
+@media (max-width: 600px) {
+    .md {
+        width: 80%;
+        margin: auto;
+        top: 30px;
+        background: beige;
+        border: solid 2px black;
+        background-color: #00a6ff1f !important;
+    }
+  }
